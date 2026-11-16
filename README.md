@@ -49,7 +49,7 @@ Makeup and beauty products e-commerce website.
 ### 3. Personal Portfolio
 A showcase of my development skills and projects.
 
-## Connect With Me
+## Connect With Me 
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/YOUR-USERNAME/)
 
-- LinkedIn: Add your LinkedIn profile URL here
 - GitHub: https://github.com/aroojrao
