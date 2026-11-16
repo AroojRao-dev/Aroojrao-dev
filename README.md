@@ -50,6 +50,6 @@ Makeup and beauty products e-commerce website.
 A showcase of my development skills and projects.
 
 ## Connect With Me 
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/YOUR-USERNAME/)
+- LinkedIn:https://www.linkedin.com/in/arooj-rao-b04366428/
 
 - GitHub: https://github.com/aroojrao
